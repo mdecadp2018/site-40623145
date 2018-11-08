@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623145/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623145/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623145/blog/</id><updated>2018-11-02T10:00:00+08:00</updated><entry><title>2018 Fall 第八週</title><link href="https://mdecadp2018.github.io/site-40623145/blog/40623145-Blog-8.html" rel="alternate"></link><published>2018-11-02T10:00:00+08:00</published><updated>2018-11-02T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:mdecadp2018.github.io,2018-11-02:/site-40623145/blog/40623145-Blog-8.html</id><summary type="html">&lt;p&gt;課程複習&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2018-11-02T10:00:00+08:00</updated><entry><title>2018 Fall 第八週</title><link href="./40623145-Blog-8.html" rel="alternate"></link><published>2018-11-02T10:00:00+08:00</published><updated>2018-11-02T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:None,2018-11-02:./40623145-Blog-8.html</id><summary type="html">&lt;p&gt;課程複習&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;課程複習&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容:&lt;/h2&gt;
-&lt;p&gt;一至七週課程複習，整理期中作業。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第七週</title><link href="https://mdecadp2018.github.io/site-40623145/blog/40623145-Blog-7.html" rel="alternate"></link><published>2018-10-26T10:00:00+08:00</published><updated>2018-10-26T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623145/blog/40623145-Blog-7.html</id><summary type="html">&lt;p&gt;說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器&lt;/p&gt;
+&lt;p&gt;什麼是雲端?
+機電資整合
+一至七週課程複習，整理期中作業。&lt;/p&gt;
+&lt;h2&gt;課堂影片:&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=yAzfQm2gBEQ&amp;amp;feature=youtu.be"&gt;機電資整合設計專案流程所需的相關套件運用與技術&lt;/a&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第七週</title><link href="./40623145-Blog-7.html" rel="alternate"></link><published>2018-10-26T10:00:00+08:00</published><updated>2018-10-26T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:None,2018-10-26:./40623145-Blog-7.html</id><summary type="html">&lt;p&gt;說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容:&lt;/h2&gt;
-&lt;p&gt;講解有關設計專案的套件與技術&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第六週</title><link href="https://mdecadp2018.github.io/site-40623145/blog/40623145-Blog-6.html" rel="alternate"></link><published>2018-10-19T10:00:00+08:00</published><updated>2018-10-19T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623145/blog/40623145-Blog-6.html</id><summary type="html">&lt;p&gt;課程中的人事時地物等關鍵內容的架構安排&lt;/p&gt;
+&lt;p&gt;講解有關設計專案的套件與技術&lt;/p&gt;
+&lt;h2&gt;課堂影片:&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=JA75HIMhIgk"&gt;利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器&lt;/a&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第六週</title><link href="./40623145-Blog-6.html" rel="alternate"></link><published>2018-10-19T10:00:00+08:00</published><updated>2018-10-19T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:None,2018-10-19:./40623145-Blog-6.html</id><summary type="html">&lt;p&gt;課程中的人事時地物等關鍵內容的架構安排&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;課程中的人事時地物等關鍵內容的架構安排&lt;/p&gt;
 
 
@@ -17,7 +23,7 @@
 &lt;p&gt;說明電腦輔助設計實習課程中，有關人事時地物等關鍵內容的架構安排
 說明管理內容流程升級最新的 CMSimfly 倉儲中的 flaskapp.py&lt;/p&gt;
 &lt;h2&gt;心得:&lt;/h2&gt;
-&lt;p&gt;利用記事本能清楚自己的行程，更能有效的掌握各組的進度，組員的進度也能互相的了解，配合也能更有效率。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第五週</title><link href="https://mdecadp2018.github.io/site-40623145/blog/40623145-Blog-5.html" rel="alternate"></link><published>2018-10-12T10:00:00+08:00</published><updated>2018-10-12T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623145/blog/40623145-Blog-5.html</id><summary type="html">&lt;p&gt;Onshape繪圖練習&lt;/p&gt;
+&lt;p&gt;利用記事本能清楚自己的行程，更能有效的掌握各組的進度，組員的進度也能互相的了解，配合也能更有效率。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第五週</title><link href="./40623145-Blog-5.html" rel="alternate"></link><published>2018-10-12T10:00:00+08:00</published><updated>2018-10-12T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:None,2018-10-12:./40623145-Blog-5.html</id><summary type="html">&lt;p&gt;Onshape繪圖練習&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;Onshape繪圖練習&lt;/p&gt;
 
 
@@ -26,7 +32,9 @@
 Onshape教學
 Part Studio可以放入多零件與變數(variable)的使用&lt;/p&gt;
 &lt;h2&gt;心得:&lt;/h2&gt;
-&lt;p&gt;從Onshape教材學到更多功能，可能是英文介面的關係，看不懂意思，其實有些跟Solidwork的功能大同小異。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第四週</title><link href="https://mdecadp2018.github.io/site-40623145/blog/40623145-Blog-4.html" rel="alternate"></link><published>2018-10-05T10:00:00+08:00</published><updated>2018-10-05T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623145/blog/40623145-Blog-4.html</id><summary type="html">&lt;p&gt;開始學習Onshape&amp;amp;架設Blog&lt;/p&gt;
+&lt;p&gt;從Onshape教材學到更多功能，可能是英文介面的關係，看不懂意思，其實有些跟Solidwork的功能大同小異。&lt;/p&gt;
+&lt;h2&gt;課堂影片:&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=0SKgCf2zJV8&amp;amp;t=345s"&gt;利用 variable 定義簡化繪圖流程&lt;/a&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第四週</title><link href="./40623145-Blog-4.html" rel="alternate"></link><published>2018-10-05T10:00:00+08:00</published><updated>2018-10-05T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:None,2018-10-05:./40623145-Blog-4.html</id><summary type="html">&lt;p&gt;開始學習Onshape&amp;amp;架設Blog&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;開始學習Onshape&amp;amp;架設Blog&lt;/p&gt;
 
 
@@ -41,14 +49,16 @@ Part Studio可以放入多零件與變數(variable)的使用&lt;/p&gt;
 geometry幾何
 intent意圖
 constraint約束
-utilize利用&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第三週</title><link href="https://mdecadp2018.github.io/site-40623145/blog/40623145-Blog-3.html" rel="alternate"></link><published>2018-09-28T10:00:00+08:00</published><updated>2018-09-28T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623145/blog/40623145-Blog-3.html</id><summary type="html">&lt;p&gt;git基本操作練習&lt;/p&gt;
+utilize利用&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第三週</title><link href="./40623145-Blog-3.html" rel="alternate"></link><published>2018-09-28T10:00:00+08:00</published><updated>2018-09-28T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:None,2018-09-28:./40623145-Blog-3.html</id><summary type="html">&lt;p&gt;git基本操作練習&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;git基本操作練習&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容:&lt;/h2&gt;
 &lt;p&gt;版本的合併及回推&lt;/p&gt;
 &lt;h2&gt;心得:&lt;/h2&gt;
-&lt;p&gt;老師剛講完時我還是不太懂,回家看影片複習和請教同學慢慢的就做出來了, 學到例如: git branch、git checkout、git merge等等。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第二週</title><link href="https://mdecadp2018.github.io/site-40623145/blog/40623145-Blog-2.html" rel="alternate"></link><published>2018-09-21T10:00:00+08:00</published><updated>2018-09-21T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:mdecadp2018.github.io,2018-09-21:/site-40623145/blog/40623145-Blog-2.html</id><summary type="html">&lt;p&gt;說明如何以 ShareX 取圖, 如何管理 CMSimfly 作業倉儲與介紹Onshape&lt;/p&gt;
+&lt;p&gt;老師剛講完時我還是不太懂,回家看影片複習和請教同學慢慢的就做出來了, 學到例如: git branch、git checkout、git merge等等。&lt;/p&gt;
+&lt;h2&gt;課堂影片:&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=158Ir6Mni60"&gt;git基本操作練習&lt;/a&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第二週</title><link href="./40623145-Blog-2.html" rel="alternate"></link><published>2018-09-21T10:00:00+08:00</published><updated>2018-09-21T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:None,2018-09-21:./40623145-Blog-2.html</id><summary type="html">&lt;p&gt;說明如何以 ShareX 取圖, 如何管理 CMSimfly 作業倉儲與介紹Onshape&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;說明如何以 ShareX 取圖, 如何管理 CMSimfly 作業倉儲與介紹Onshape&lt;/p&gt;
 
 
@@ -56,7 +66,7 @@ utilize利用&lt;/p&gt;</content><category term="2018Fall"></category></entry><e
 &lt;p&gt;到github倉儲中用 Settings 將內定 branch設為 'gh-pages'&lt;/p&gt;
 &lt;p&gt;開始使用Onshape練習其基本功能, 將成果上傳到投影片,網誌及Blog。&lt;/p&gt;
 &lt;h2&gt;心得:&lt;/h2&gt;
-&lt;p&gt;第一次用Onshape還算上手, 大部分功能都跟Solidwork雷同, 只是要在網路上畫, 好處是不用一直存檔, 以前用Solidwork只要忘了存檔, 先前畫的直接付諸流水。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第一週</title><link href="https://mdecadp2018.github.io/site-40623145/blog/40623145-Blog-1.html" rel="alternate"></link><published>2018-09-14T10:00:00+08:00</published><updated>2018-09-14T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623145/blog/40623145-Blog-1.html</id><summary type="html">&lt;p&gt;領取作業&lt;/p&gt;
+&lt;p&gt;第一次用Onshape還算上手, 大部分功能都跟Solidwork雷同, 只是要在網路上畫, 好處是不用一直存檔, 以前用Solidwork只要忘了存檔, 先前畫的直接付諸流水。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第一週</title><link href="./40623145-Blog-1.html" rel="alternate"></link><published>2018-09-14T10:00:00+08:00</published><updated>2018-09-14T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:None,2018-09-14:./40623145-Blog-1.html</id><summary type="html">&lt;p&gt;領取作業&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;領取作業&lt;/p&gt;
 
 
@@ -64,7 +74,7 @@ utilize利用&lt;/p&gt;</content><category term="2018Fall"></category></entry><e
 &lt;p&gt;登入 Github 帳號後, 連結至 https://classroom.github.com/a/fGqXU9kO 以領取個人的期中作業, 此倉儲內容取自: 2018fall, 示範網站, 各學員期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據。&lt;/p&gt;
 &lt;p&gt;上課須準備隨身碟、耳機、麥克風與紙本筆記&lt;/p&gt;
 &lt;h2&gt;心得:&lt;/h2&gt;
-&lt;p&gt;這週學得跟一年級學的課程有些許類似,就是建立新倉儲然後推上去,有點像是在複習之前學的,重新喚起記憶。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623145/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623145/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;p&gt;這週學得跟一年級學的課程有些許類似,就是建立新倉儲然後推上去,有點像是在複習之前學的,重新喚起記憶。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
