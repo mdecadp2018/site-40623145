@@ -33,10 +33,27 @@
 <v t="leo.20181108235152.1" a="E"><vh>W3</vh>
 <v t="leo.20181108235152.2"><vh>w3</vh></v>
 </v>
+<v t="leo.20181109000643.1" a="E"><vh>W4</vh>
+<v t="leo.20181109000643.2"><vh>w4</vh></v>
+</v>
+<v t="leo.20181109000645.1" a="E"><vh>W5</vh>
+<v t="leo.20181109000645.2"><vh>w5</vh></v>
+</v>
+<v t="leo.20181109000649.1" a="E"><vh>W6</vh>
+<v t="leo.20181109000649.2"><vh>w6</vh></v>
+</v>
+<v t="leo.20181109002155.1" a="E"><vh>W7</vh>
+<v t="leo.20181109002155.2" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20181109002155.3"><vh>w7</vh></v>
+</v>
+<v t="leo.20181109002155.4" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20181109002155.5"><vh>w7</vh></v>
+</v>
+</v>
 <v t="leo.20181108234922.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20181108234922.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -156,12 +173,12 @@ Created by [40623145林暉恩](https://github.com/mdecadp2018/site-40623145)
 </t>
 <t tx="leo.20180827201621.12"># Week 1
 
-*上課準備隨身碟、耳機、麥克風與筆記
+
 * 下載p37
 * 建立一個Github Pages網站
 * clone '2018fall'與自己的倉儲並把
 (除了.git&amp;README.md)資料copy到自己的倉儲資料夾並上推。
-
+* 上課準備隨身碟、耳機、麥克風與筆記
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
@@ -364,9 +381,9 @@ make.start()
 </t>
 <t tx="leo.20181108235147.2"># Week 2
 
-* 將github倉儲中的內定分支切換到gh-pages分支,並把新的版本拉下來
-*
-*</t>
+* 將github倉儲中的內定分支切換到gh-pages分支,並把新的版本拉下來。
+*學會如何管理位於 https://github.com/mdecadp2018/ 中的期中作業倉儲, 然後在 W9 前, 自行掌握進度, 每週拍攝操作實習影片, 將教材內容與使用心得放入個人的網站、簡報與網誌中。
+</t>
 <t tx="leo.20181108235152.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -378,8 +395,103 @@ make.start()
 </t>
 <t tx="leo.20181108235152.2"># Week 3
 
-* 
-*
-*</t>
+* 執行 Onshape 教學課程內容時, 請將操作過程拍攝成影片, 推送到個人的 Youtube 帳號下, 明確標示影片標題為"國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-", 然後加上個人學號與各影片內容標題後, 嵌入到個人的作業倉儲中。
+</t>
+<t tx="leo.20181109000643.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109000643.2"># Week 4
+
+
+*架設Blog
+*Onshape 課程使用說明 
+*英英字典的使用</t>
+<t tx="leo.20181109000645.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109000645.2"># Week 5
+
+
+* Onshape繪圖練習
+* variable定義簡化繪圖
+* Part Studio觀念</t>
+<t tx="leo.20181109000649.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109000649.2"># Week 6
+
+
+*如何更新CMSimfly
+*說明電腦輔助設計實習課程中, 有關人事時地物等關鍵內容的架構安排
+</t>
+<t tx="leo.20181109002155.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109002155.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109002155.3"># Week 7
+
+
+* 更改網路設定:
+
+控制台&gt;網路和網際網路&gt;乙太網路2&gt;變更介面卡選項&gt;內容
+
+&gt;網際網路通訊協定第4版(IPv4)
+
+</t>
+<t tx="leo.20181109002155.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109002155.5">*在使用DNS伺服器位置輸入:
+
+ 慣用:140.130.17.3 
+
+其他:140.130.1.2
+
+*網際網路通訊協定第6版(IPv6):
+
+2001:288:6004:17::3  系上
+
+2001:288:6004:1::2  學校
+
+ 2001:b000:168::1 hinet
+</t>
 </tnodes>
 </leo_file>
