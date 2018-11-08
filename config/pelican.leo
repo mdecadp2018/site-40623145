@@ -86,6 +86,12 @@
 <v t="leo.20181014183942.1" a="E"><vh>2018 Fall 1012第五周</vh>
 <v t="leo.20181014183942.2"><vh>@edit 20181012.md</vh></v>
 </v>
+<v t="leo.20181108222050.1" a="E"><vh>2018 Fall 1019第六周</vh>
+<v t="leo.20181108222050.2"><vh>@edit 20181019.md</vh></v>
+</v>
+<v t="leo.20181108222054.1" a="E"><vh>2018 Fall 1026第七周</vh>
+<v t="leo.20181108222054.2"><vh>@edit 20181026.md</vh></v>
+</v>
 </v>
 </v>
 <v t="yen.20170108171733.83"><vh>產生 .key 與 .crt 指令</vh></v>
@@ -123,6 +129,8 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20181014185109.1"></t>
 <t tx="leo.20181014185111.1"></t>
 <t tx="leo.20181014185113.1"></t>
+<t tx="leo.20181108222050.1"></t>
+<t tx="leo.20181108222054.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
