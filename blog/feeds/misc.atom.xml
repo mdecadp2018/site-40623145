@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623145/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623145/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623145/blog/</id><updated>2018-10-26T10:00:00+08:00</updated><entry><title>2018 Fall 第七週</title><link href="https://mdecadp2018.github.io/site-40623145/blog/40623145-Blog-7.html" rel="alternate"></link><published>2018-10-26T10:00:00+08:00</published><updated>2018-10-26T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623145/blog/40623145-Blog-7.html</id><summary type="html">&lt;p&gt;.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623145/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623145/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623145/blog/</id><updated>2018-11-02T10:00:00+08:00</updated><entry><title>2018 Fall 第八週</title><link href="https://mdecadp2018.github.io/site-40623145/blog/40623145-Blog-8.html" rel="alternate"></link><published>2018-11-02T10:00:00+08:00</published><updated>2018-11-02T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:mdecadp2018.github.io,2018-11-02:/site-40623145/blog/40623145-Blog-8.html</id><summary type="html">&lt;p&gt;課程複習&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;課程複習&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容:&lt;/h2&gt;
-&lt;h2&gt;心得:&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第六週</title><link href="https://mdecadp2018.github.io/site-40623145/blog/40623145-Blog-6.html" rel="alternate"></link><published>2018-10-19T10:00:00+08:00</published><updated>2018-10-19T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623145/blog/40623145-Blog-6.html</id><summary type="html">&lt;p&gt;課程中的人事時地物等關鍵內容的架構安排&lt;/p&gt;
+&lt;p&gt;一至七週課程複習，整理期中作業。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第七週</title><link href="https://mdecadp2018.github.io/site-40623145/blog/40623145-Blog-7.html" rel="alternate"></link><published>2018-10-26T10:00:00+08:00</published><updated>2018-10-26T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623145/blog/40623145-Blog-7.html</id><summary type="html">&lt;p&gt;說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器&lt;/p&gt;
+
+
+&lt;h2&gt;上課內容:&lt;/h2&gt;
+&lt;p&gt;講解有關設計專案的套件與技術&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第六週</title><link href="https://mdecadp2018.github.io/site-40623145/blog/40623145-Blog-6.html" rel="alternate"></link><published>2018-10-19T10:00:00+08:00</published><updated>2018-10-19T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623145/blog/40623145-Blog-6.html</id><summary type="html">&lt;p&gt;課程中的人事時地物等關鍵內容的架構安排&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;課程中的人事時地物等關鍵內容的架構安排&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容:&lt;/h2&gt;
-&lt;h2&gt;心得:&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第五週</title><link href="https://mdecadp2018.github.io/site-40623145/blog/40623145-Blog-5.html" rel="alternate"></link><published>2018-10-12T10:00:00+08:00</published><updated>2018-10-12T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623145/blog/40623145-Blog-5.html</id><summary type="html">&lt;p&gt;Onshape繪圖練習&lt;/p&gt;
+&lt;p&gt;說明電腦輔助設計實習課程中，有關人事時地物等關鍵內容的架構安排
+說明管理內容流程升級最新的 CMSimfly 倉儲中的 flaskapp.py&lt;/p&gt;
+&lt;h2&gt;心得:&lt;/h2&gt;
+&lt;p&gt;利用記事本能清楚自己的行程，更能有效的掌握各組的進度，組員的進度也能互相的了解，配合也能更有效率。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第五週</title><link href="https://mdecadp2018.github.io/site-40623145/blog/40623145-Blog-5.html" rel="alternate"></link><published>2018-10-12T10:00:00+08:00</published><updated>2018-10-12T10:00:00+08:00</updated><author><name>40623145</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623145/blog/40623145-Blog-5.html</id><summary type="html">&lt;p&gt;Onshape繪圖練習&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;Onshape繪圖練習&lt;/p&gt;
 
 
