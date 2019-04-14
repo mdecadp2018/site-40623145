@@ -25,7 +25,12 @@
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>W1</vh>
+<v t="leo.20190415024030.1" a="E"><vh>do something</vh>
 <v t="leo.20180827201621.12"><vh>w1</vh></v>
+</v>
+<v t="leo.20190415023937.1" a="E"><vh>experience</vh>
+<v t="leo.20190415023937.2"><vh>w1</vh></v>
+</v>
 </v>
 <v t="leo.20181108235147.1" a="E"><vh>W2</vh>
 <v t="leo.20181108235147.2"><vh>w2</vh></v>
@@ -150,7 +155,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 40623145
+<t tx="leo.20180827201621.10">## 2019Spring 協同產品設計實習
 
 ### 虎科大機械設計工程系
 
@@ -162,23 +167,18 @@ Created by [40623145林暉恩](https://github.com/mdecadp2018/site-40623145)
 
 
 </t>
-<t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20180827201621.11">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
-
 
 						
 </t>
 <t tx="leo.20180827201621.12"># Week 1
 
 
-* 下載p37
-* 建立一個Github Pages網站
-* clone '2018fall'與自己的倉儲並把
-(除了.git&amp;README.md)資料copy到自己的倉儲資料夾並上推。
-* 上課準備隨身碟、耳機、麥克風與筆記
+* 論述時事來勉勵或警惕學生
+* 教導如何建立可攜式系統並自行建立,拍成[影片](https://youtu.be/w9eDGmawfNg)上傳youtube
+* 老樣子,上課準備隨身碟、耳機與筆記
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
@@ -496,6 +496,35 @@ make.start()
 2001:288:6004:1::2  學校
 
  2001:b000:168::1 hinet
+</t>
+<t tx="leo.20190415023937.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190415023937.2"># 心得
+
+
+ 
+* 開學的第一週的第一堂課就是嚴老師的協同產品設計實習,老樣子,前30分鐘跟我們分享一些時事與老師的想法及做事情的態度,接下來提及這一學期要做的事,大致上來說就是上學期的進階版,更為深度的探討。
+
+</t>
+<t tx="leo.20190415024030.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
 </t>
 </tnodes>
 </leo_file>
