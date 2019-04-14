@@ -33,10 +33,23 @@
 </v>
 </v>
 <v t="leo.20181108235147.1" a="E"><vh>W2</vh>
+<v t="leo.20190415025720.1" a="E"><vh>do something</vh>
 <v t="leo.20181108235147.2"><vh>w2</vh></v>
 </v>
+<v t="leo.20190415025757.1" a="E"><vh>experience</vh>
+<v t="leo.20190415025757.2"><vh>w2</vh></v>
+</v>
+</v>
 <v t="leo.20181108235152.1" a="E"><vh>W3</vh>
+<v t="leo.20190415033123.1" a="E"><vh>do something</vh>
+<v t="leo.20190415033123.2"><vh>w3</vh></v>
+</v>
+<v t="leo.20190415032537.1" a="E"><vh>what you do</vh>
 <v t="leo.20181108235152.2"><vh>w3</vh></v>
+</v>
+<v t="leo.20190415032547.1" a="E"><vh>experience</vh>
+<v t="leo.20190415032547.2"><vh>w3</vh></v>
+</v>
 </v>
 <v t="leo.20181109000643.1" a="E"><vh>W4</vh>
 <v t="leo.20181109000643.2"><vh>w4</vh></v>
@@ -58,7 +71,7 @@
 <v t="leo.20181108234922.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20181108234922.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -370,32 +383,27 @@ make.start()
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
-<t tx="leo.20181108235147.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181108235147.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
-
 
 						
 </t>
 <t tx="leo.20181108235147.2"># Week 2
 
-* 將github倉儲中的內定分支切換到gh-pages分支,並把新的版本拉下來。
-*學會如何管理位於 https://github.com/mdecadp2018/ 中的期中作業倉儲, 然後在 W9 前, 自行掌握進度, 每週拍攝操作實習影片, 將教材內容與使用心得放入個人的網站、簡報與網誌中。
+* 這學期使用隨機分組系統,離開舒適圈,不再挑選要好的同學一起共事
+* 說明本學期目標及任務
 </t>
-<t tx="leo.20181108235152.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181108235152.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
 
 						
 </t>
-<t tx="leo.20181108235152.2"># Week 3
+<t tx="leo.20181108235152.2"># 編寫ungit使用手冊
 
-* 執行 Onshape 教學課程內容時, 請將操作過程拍攝成影片, 推送到個人的 Youtube 帳號下, 明確標示影片標題為"國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-", 然後加上個人學號與各影片內容標題後, 嵌入到個人的作業倉儲中。
+&lt;iframe src="https://youtu.be/HR5JyvmimgI" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20181109000643.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -526,5 +534,80 @@ make.start()
 
 						
 </t>
+<t tx="leo.20190415025720.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190415025757.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190415025757.2"># 心得
+
+
+ 
+* 這學期老師用隨機分組程式分好組,不再是那些最熟的同學,目的是為了讓我們脫離舒適圈,採取每周自評及組員互評,從各自做的東西來評分,這樣可以看出其他組員有沒有做出該做的東西來,希望我們這組可以合作愉快。
+
+</t>
+<t tx="leo.20190415032537.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190415032547.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190415032547.2"># 心得
+
+
+ 
+* 這週確定了組員名單,發現有三個學長,也許是剛開始不太熟,要找到學長好像有點困難,加上學長們太久沒上,有些東西已經忘了,需要稍微講解一下。
+
+
+
+</t>
+<t tx="leo.20190415033123.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190415033123.2"># Week 3
+
+* 確認組員
+* 進行實習任務一&gt;w1取分項目</t>
 </tnodes>
 </leo_file>
