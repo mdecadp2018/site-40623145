@@ -96,10 +96,22 @@
 <v t="leo.20181109002155.5"><vh>w7</vh></v>
 </v>
 </v>
-<v t="leo.20181108234922.1" a="E"><vh>快捷鍵</vh>
-<v t="leo.20181108234922.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20180827201621.13" a="E"><vh>W8</vh>
+<v t="leo.20190415044603.1" a="E"><vh>do something</vh>
+<v t="leo.20190415044603.2"><vh>w8</vh></v>
 </v>
-<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20190415044613.1" a="E"><vh>what you do</vh>
+<v t="leo.20190415044613.2"><vh>w81</vh></v>
+</v>
+<v t="leo.20190415044629.1" a="E"><vh>what you do</vh>
+<v t="leo.20190415044629.2"><vh>w82</vh></v>
+</v>
+<v t="leo.20190415044653.1" a="E"><vh>experience</vh>
+<v t="leo.20190415044653.2"><vh>w8</vh></v>
+</v>
+<v t="leo.20190415045645.1" a="E"><vh>FINISH</vh>
+<v t="leo.20190415045645.2"><vh>GJ</vh></v>
+</v>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -392,25 +404,6 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108234922.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181108234922.2"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
 <t tx="leo.20181108235147.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -478,7 +471,7 @@ make.start()
 <t tx="leo.20181109002155.3"># Week 7
 
 
-* 實習任務二&gt;手足球onshape繪製
+* 實習任務二&gt;手足球系統onshape繪製
 
 </t>
 <t tx="leo.20181109002155.4">&lt;section data-markdown&gt;
@@ -781,6 +774,86 @@ make.start()
 
 
 &lt;img src="./../images/手足球哦.png" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190415044603.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190415044603.2"># Week 8
+
+
+* 手足球系統onshape最終版修改
+這週後來發現其實直接畫在一個零件裡就夠了,不然有些地方很難修改
+於是我們將場地精簡及優化
+
+</t>
+<t tx="leo.20190415044613.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190415044613.2"># 場地零件
+
+
+&lt;img src="./../images/3465546.png" width="800" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190415044629.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190415044629.2"># 最終版本
+
+
+&lt;img src="./../images/hrtdjd.png" width="800" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190415044653.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190415044653.2"># 心得
+
+
+ 
+* 上週做的原型在vrep組看過之後在本週需要修改一些死角的部分及製作一些細節使其更加完整,非常感謝繪圖組的合作。</t>
+<t tx="leo.20190415045645.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190415045645.2"># THANKS FOR LISTENING!
 </t>
 </tnodes>
 </leo_file>
