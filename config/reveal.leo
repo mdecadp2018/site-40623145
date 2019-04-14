@@ -52,7 +52,12 @@
 </v>
 </v>
 <v t="leo.20181109000643.1" a="E"><vh>W4</vh>
+<v t="leo.20190415035134.1" a="E"><vh>do something</vh>
 <v t="leo.20181109000643.2"><vh>w4</vh></v>
+</v>
+<v t="leo.20190415035143.1" a="E"><vh>experience</vh>
+<v t="leo.20190415035143.2"><vh>w4</vh></v>
+</v>
 </v>
 <v t="leo.20181109000645.1" a="E"><vh>W5</vh>
 <v t="leo.20181109000645.2"><vh>w5</vh></v>
@@ -403,13 +408,12 @@ make.start()
 </t>
 <t tx="leo.20181108235152.2"># 編寫ungit使用手冊
 
-&lt;iframe src="https://youtu.be/HR5JyvmimgI" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;img src="./../images/ungit.png" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 </t>
-<t tx="leo.20181109000643.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181109000643.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
+
 
 
 						
@@ -417,11 +421,11 @@ make.start()
 <t tx="leo.20181109000643.2"># Week 4
 
 
-* 架設Blog
+* ipv4故障,改用ipv6
+* 實習任務一
+ 
 
-* Onshape 課程使用說明 
 
-* 英英字典的使用
 
 </t>
 <t tx="leo.20181109000645.1">&lt;section data-markdown&gt;
@@ -609,5 +613,38 @@ make.start()
 
 * 確認組員
 * 進行實習任務一&gt;w1取分項目</t>
+<t tx="leo.20190415035134.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190415035143.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190415035143.2"># 心得
+
+
+ 
+* 上課上到一半發現網路無法連線,結果是IP被占用,我們被踢出去,原本我們是使用ipv4,暫時切到ipv6,還是覺得不太穩定,推送時有點害怕出什麼差錯,會害網站爆掉。
+
+
+
+
+
+</t>
 </tnodes>
 </leo_file>
