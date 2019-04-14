@@ -74,10 +74,25 @@
 </v>
 </v>
 <v t="leo.20181109002155.1" a="E"><vh>W7</vh>
-<v t="leo.20181109002155.2" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20181109002155.2" a="E"><vh>do something</vh>
 <v t="leo.20181109002155.3"><vh>w7</vh></v>
 </v>
-<v t="leo.20181109002155.4" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20190415042641.1" a="E"><vh>what you do</vh>
+<v t="leo.20190415043719.2"><vh>w71</vh></v>
+</v>
+<v t="leo.20190415043719.1" a="E"><vh>what you do</vh>
+<v t="leo.20190415043719.3"><vh>w72</vh></v>
+</v>
+<v t="leo.20190415043647.1" a="E"><vh>what you do</vh>
+<v t="leo.20190415043647.4"><vh>w73</vh></v>
+</v>
+<v t="leo.20190415043908.1" a="E"><vh>what you do</vh>
+<v t="leo.20190415043908.5"><vh>w74</vh></v>
+</v>
+<v t="leo.20190415043941.1" a="E"><vh>what you do</vh>
+<v t="leo.20190415043941.6"><vh>w75</vh></v>
+</v>
+<v t="leo.20181109002155.4" a="E"><vh>experience</vh>
 <v t="leo.20181109002155.5"><vh>w7</vh></v>
 </v>
 </v>
@@ -439,10 +454,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109000649.2"># Week 6
+<t tx="leo.20181109000649.2">
 
 
-&lt;img src="./../images/br.png" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+&lt;img src="./../images/br.png" width="800" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 </t>
 <t tx="leo.20181109002155.1">&lt;section&gt;
 @others
@@ -463,9 +478,7 @@ make.start()
 <t tx="leo.20181109002155.3"># Week 7
 
 
-* 更改網路設定:
-
-控制台&gt;網路和網際網路&gt;乙太網路2&gt;變更介面卡選項&gt;內容&gt;網際網路通訊協定第4版(IPv4)
+* 實習任務二&gt;手足球onshape繪製
 
 </t>
 <t tx="leo.20181109002155.4">&lt;section data-markdown&gt;
@@ -479,20 +492,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109002155.5">* 在使用DNS伺服器位置輸入:
+<t tx="leo.20181109002155.5"># 心得
 
- 慣用:140.130.17.3 
 
-其他:140.130.1.2
-
-* 網際網路通訊協定第6版(IPv6):
-
-2001:288:6004:17::3  系上
-
-2001:288:6004:1::2  學校
-
- 2001:b000:168::1 hinet
-</t>
+ 
+* 本週和小組分工製作實習任務二的手足球系統,我是負責繪圖的部分,使用onshape畫出手足球的場地,另一同學則是負責球員及竿子;照著老師給的尺寸做發現很多地方還是得自己設計尺寸出來,單位還是英吋還是有點不習慣。</t>
 <t tx="leo.20190415023937.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -697,6 +701,86 @@ make.start()
 
 
 
+</t>
+<t tx="leo.20190415042641.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190415043647.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190415043647.4"># 場地零件
+
+
+&lt;img src="./../images/外框側邊哦.png" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190415043719.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190415043719.2"># 場地零件
+
+
+&lt;img src="./../images/左門哦.png" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190415043719.3"># 場地零件
+
+
+&lt;img src="./../images/右門哦.png" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190415043908.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190415043908.5"># 場地零件
+
+
+&lt;img src="./../images/底部哦.png" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190415043941.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190415043941.6"># 場地組合(初版)
+
+
+&lt;img src="./../images/手足球哦.png" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 </t>
 </tnodes>
 </leo_file>
