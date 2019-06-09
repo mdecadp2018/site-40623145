@@ -42,9 +42,29 @@
 <v t="leo.20190610030342.2"><vh>h11</vh></v>
 </v>
 </v>
-<v t="leo.20190610030916.1" a="E"><vh>onshape</vh>
+<v t="leo.20190610030916.1"><vh>onshape</vh>
 <v t="leo.20190610030916.2" a="E"><vh>do something</vh>
 <v t="leo.20190610030916.3"><vh>o1</vh></v>
+</v>
+</v>
+<v t="leo.20190610031655.1"><vh>Vrep</vh>
+<v t="leo.20190610031655.2" a="E"><vh>do something</vh>
+<v t="leo.20190610031655.3"><vh>v1</vh></v>
+</v>
+</v>
+<v t="leo.20190610031951.1"><vh>github</vh>
+<v t="leo.20190610031951.2" a="E"><vh>do something</vh>
+<v t="leo.20190610031951.3"><vh>g1</vh></v>
+</v>
+</v>
+<v t="leo.20190610032559.1" a="E"><vh>contribute</vh>
+<v t="leo.20190610032559.2" a="E"><vh>do something</vh>
+<v t="leo.20190610032559.3"><vh>c1</vh></v>
+</v>
+</v>
+<v t="leo.20190610032724.1" a="E"><vh>score</vh>
+<v t="leo.20190610032724.2" a="E"><vh>do something</vh>
+<v t="leo.20190610032724.3"><vh>s1</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.11"><vh>W1</vh>
@@ -999,7 +1019,99 @@ make.start()
 <t tx="leo.20190610030916.3"># Onshape
 
 
+* [設計與繪圖](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g2/content/%E8%A8%AD%E8%A8%88%E8%88%87%E7%B9%AA%E5%9C%96.html)
+</t>
+<t tx="leo.20190610031655.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190610031655.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190610031655.3"># V-rep簡化
+
+
+* [簡化](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g2/content/%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%91%A8-%E7%B0%A1%E5%8C%96.html)
+</t>
+<t tx="leo.20190610031951.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190610031951.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190610031951.3"># 倉儲推送紀錄
+
+
+* [小組](https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g2/graphs/contributors)
+</t>
+<t tx="leo.20190610032559.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190610032559.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190610032559.3"># 心得
+
+
 * 
+</t>
+<t tx="leo.20190610032724.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190610032724.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190610032724.3"># 自評
+
+
+* 學員出席(20%): 20分
+* Github倉儲管理(20%): 15分
+* Onshape協同操作(20%): 20分
+* V-rep模擬(20%): 5分
+* 程式開發(20%): 1分
 </t>
 </tnodes>
 </leo_file>
