@@ -208,7 +208,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2019Spring 協同產品設計實習
+<t tx="leo.20180827201621.10">## 2019Spring 協同產品設計實習00
 
 ### 虎科大機械設計工程系
 
@@ -216,6 +216,7 @@ vertical: body pane on the botton</t>
 Created by [40623145林暉恩](https://github.com/mdecadp2018/site-40623145)
 &lt;/small&gt;
 
+[小組網站](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g2/content/index.html)
 [40623145網誌](https://mdecadp2018.github.io/site-40623145/content/index.html)
 
 
@@ -489,7 +490,9 @@ make.start()
 
 
  
-* 本週和小組分工製作實習任務二的手足球系統,我是負責繪圖的部分,使用onshape畫出手足球的場地,另一同學則是負責球員及竿子;照著老師給的尺寸做發現很多地方還是得自己設計尺寸出來,單位還是英吋還是有點不習慣。</t>
+* 本週和小組分工製作實習任務二的手足球系統,我是負責繪圖的部分,使用onshape畫出手足球的場地,另一同學則是負責球員及竿子;照著老師給的尺寸做發現很多地方還是得自己設計尺寸出來,單位還是英吋還是有點不習慣。
+
+</t>
 <t tx="leo.20190415023937.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -582,7 +585,9 @@ make.start()
 <t tx="leo.20190415033123.2"># Week 3
 
 * 確認組員
-* 進行實習任務一&gt;w1取分項目</t>
+* 進行實習任務一&gt;w1取分項目
+
+</t>
 <t tx="leo.20190415035134.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -654,7 +659,9 @@ make.start()
 <t tx="leo.20190415040942.2"># Week 5
 
 
-* 學習製作[BubbleRob](http://www.coppeliarobotics.com/helpFiles/en/bubbleRobTutorial.htm)</t>
+* 學習製作[BubbleRob](http://www.coppeliarobotics.com/helpFiles/en/bubbleRobTutorial.htm)
+
+</t>
 <t tx="leo.20190415041134.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -841,7 +848,9 @@ make.start()
 
 
  
-* 上週做的原型在vrep組看過之後在本週需要修改一些死角的部分及製作一些細節使其更加完整,非常感謝繪圖組的合作。</t>
+* 上週做的原型在vrep組看過之後在本週需要修改一些死角的部分及製作一些細節使其更加完整,非常感謝繪圖組的合作。
+
+</t>
 <t tx="leo.20190415045645.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
