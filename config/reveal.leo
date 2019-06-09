@@ -29,9 +29,22 @@
 <v t="leo.20190610022103.3"><vh>f1</vh></v>
 </v>
 </v>
-<v t="leo.20190610023916.1" a="E"><vh>checkpoint</vh>
+<v t="leo.20190610023916.1"><vh>checkpoint</vh>
 <v t="leo.20190610023916.2" a="E"><vh>do something</vh>
 <v t="leo.20190610023916.3"><vh>f2</vh></v>
+</v>
+</v>
+<v t="leo.20190610025000.1"><vh>handfootball</vh>
+<v t="leo.20190610025000.2" a="E"><vh>do something</vh>
+<v t="leo.20190610025000.3"><vh>h1</vh></v>
+</v>
+<v t="leo.20190610030342.1" a="E"><vh>experience</vh>
+<v t="leo.20190610030342.2"><vh>h11</vh></v>
+</v>
+</v>
+<v t="leo.20190610030916.1" a="E"><vh>onshape</vh>
+<v t="leo.20190610030916.2" a="E"><vh>do something</vh>
+<v t="leo.20190610030916.3"><vh>o1</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.11"><vh>W1</vh>
@@ -218,7 +231,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2019Spring 協同產品設計實習00
+<t tx="leo.20180827201621.10">## 2019Spring 協同產品設計實習
 
 ### 虎科大機械設計工程系
 
@@ -895,9 +908,9 @@ make.start()
 
 
 * 手足球(送球機構)
-* 倉儲推送紀錄 
-* Onshape
+* Onshape 
 * V-rep簡化
+* 倉儲推送紀錄
 
 </t>
 <t tx="leo.20190610023916.1">&lt;section&gt;
@@ -925,6 +938,68 @@ make.start()
 * Onshape協同操作
 * V-rep模擬
 * 程式開發
+</t>
+<t tx="leo.20190610025000.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190610025000.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190610025000.3"># 手足球
+
+
+&lt;img src="./../images/42.png" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190610030342.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190610030342.2"># 送球機構
+
+
+ &lt;img src="./../images/sung.png" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+
+</t>
+<t tx="leo.20190610030916.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190610030916.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190610030916.3"># Onshape
+
+
+* 
 </t>
 </tnodes>
 </leo_file>
