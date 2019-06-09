@@ -21,10 +21,20 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>W1</vh>
+<v t="leo.20190610022103.1" a="E"><vh>final</vh>
+<v t="leo.20190610022103.2" a="E"><vh>do something</vh>
+<v t="leo.20190610022103.3"><vh>f1</vh></v>
+</v>
+</v>
+<v t="leo.20190610023916.1" a="E"><vh>checkpoint</vh>
+<v t="leo.20190610023916.2" a="E"><vh>do something</vh>
+<v t="leo.20190610023916.3"><vh>f2</vh></v>
+</v>
+</v>
+<v t="leo.20180827201621.11"><vh>W1</vh>
 <v t="leo.20190415024030.1" a="E"><vh>do something</vh>
 <v t="leo.20180827201621.12"><vh>w1</vh></v>
 </v>
@@ -863,6 +873,58 @@ make.start()
 						
 </t>
 <t tx="leo.20190415045645.2"># THANKS FOR LISTENING!
+</t>
+<t tx="leo.20190610022103.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190610022103.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190610022103.3"># 期末大綱
+
+
+* 手足球(送球機構)
+* 倉儲推送紀錄 
+* Onshape
+* V-rep簡化
+
+</t>
+<t tx="leo.20190610023916.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190610023916.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190610023916.3"># 評分重點
+
+
+* 學員出席
+* Github倉儲管理
+* Onshape協同操作
+* V-rep模擬
+* 程式開發
 </t>
 </tnodes>
 </leo_file>
